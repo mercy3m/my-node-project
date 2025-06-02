@@ -1,0 +1,16 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js project with Jest and GitHub Actions",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo 'Build passed'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
